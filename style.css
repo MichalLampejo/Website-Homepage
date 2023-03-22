@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  color: white;
+}
+.navbar {
+ background-color: #b41818;
+  overflow: hidden; 
+}
+
+.navbar a {
+  float: left; 
+  text-align: center; 
+  padding: 14px 20px;
+  color: white; 
+  text-decoration: none; 
+  background-color: #b41818;
+ display: block; 
+}
+
+.navbar a:hover {
+  background-color:  #ddd5d5; 
+  color: black; 
+}
+
+section{
+  display: flex;
+  padding: 2px;
+  margin: 2px;
+}
+
+h3{
+  color:  #0D89BF 
+}
+
+img{
+  width: 400px;
+  height: 300px;
+  padding:2px;
+  margin: 6px;
+  float: left;
+  border: 2px solid black;
+}
